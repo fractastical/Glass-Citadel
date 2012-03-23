@@ -4,5 +4,7 @@ This game is primarily an act of imagination. Each participant is awarded a cert
 
 Participants are also generally expected to extend some other form of encouragement. Thus, for each game period there is a buy-in (at this point in bitcoins). This is reclaimable at the end of the period by whomever. 
 
+It is, in this sense, first a literary review and second an attempt to reward the creators of fine objects.
+
 
 Inspired by the novel Glasperlenspiel by Hermann Hesse (translated as Magister Ludi).
