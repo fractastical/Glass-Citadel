@@ -1,0 +1,8 @@
+
+
+This game is primarily an act of imagination. Each participant is awarded a certain amount of energy (like karma) at the beginning of each game period. This must be given to an entry or multiple before the end of the game period. Entries can be submitted by whomever, but are only elegible for one game period. The operative concept is aesthetics and entries may be divided into categories (visual art, computer code, music, etc.).
+
+Participants are also generally expected to extend some other form of encouragement. Thus, for each game period there is a buy-in (at this point in bitcoins). This is reclaimable at the end of the period by whomever. 
+
+
+Inspired by the novel Glasperlenspiel by Hermann Hesse (translated as Magister Ludi).
